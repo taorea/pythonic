@@ -1,4 +1,4 @@
-# pythonic
+# python spider
 python notebook
 
 ##记录下学习笔记
